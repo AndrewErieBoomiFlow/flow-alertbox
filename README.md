@@ -21,5 +21,7 @@ var manywho = {
 
 | Attribute     	| Notes         |
 | ------------- 	|:-------------:|
-| background_image  | URL: jpg, png	      |
+| alert_style       | alert-warning, alert-success, etc. |
 
+
+[Demo Flow](https://flow.manywho.com/395cd7c0-bc6c-4270-a44a-d6d2b53007bf/play/alertbox/?flow-id=3954dae8-beb7-4351-a6b5-1e2da3bffbf0)
